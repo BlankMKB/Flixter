@@ -21,7 +21,7 @@ Time spent: 3 hours spent in total
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/dbMGtaN" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 Describe any challenges encountered while building the app.
